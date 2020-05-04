@@ -13,7 +13,7 @@
 	  "name": "nginx",
 	  "image": "neerajnsharma/multi-nginx",
 	  "hostname": "nginx",
-	  "essential": false,
+	  "essential": true,
 	  "memory": 128,
 	  "portMappings": [
            {
